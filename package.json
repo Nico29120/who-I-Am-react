@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "anime-character-random": "^1.0.14",
+    "axios": "^1.2.3",
+    "string-similarity": "^4.0.4"
+  }
+}
